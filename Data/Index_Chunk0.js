@@ -1,0 +1,1 @@
+define({'Linked To This':{e:{'And This':{l:[{u:'/Content/Home.htm#kanchor1',t:'Home'},{u:'/Content/D_More Information/PDF Downloads.htm#kanchor2',t:'superman'}]}}},'Sun':{l:[{u:'/Content/D_More Information/PDF Downloads.htm#kanchor3',t:'superman'}]}});
